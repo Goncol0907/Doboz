@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(https://ingyen-hatterkep.hu/hatterkepek_tablet/halvany-szinek-hatterkep-38903.jpg);
+  background-repeat: no-repeat;
+  background-size: 400%;
+}
+
+header { margin: 10px;
+    border-left: 5px solid #000000;
+    border-right: 5px solid black;
+    border-radius: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: justify;
+    margin-bottom: 20px;
+    background-color: #f2f2f2;
+    
+    
+   
+   
+
+}
+
+h1 {
+    text-align: center;
+}
+
+#a {
+    margin-left: 20px;
+    float: left;
+    width: 45%;  
+    padding-left: 40px;
+    padding-right: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+#b {
+    
+    margin-right: 20px;
+    float: right;    
+    width: 45%;  
+    padding-right: 40px;
+    padding-left: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    
+}
+
+p { 
+    text-align: justify;
+    font-size: 16px;
+    color: #000000;
+  }
+#c {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    margin-top: 350px;
+
+}
+#d {
+    margin-left: 20px;
+    margin-top: 40px;
+    float: left;
+    width: 45%;  
+    padding: 20px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+#e {
+    margin-right: 20px;
+    margin-top: 400px;
+    float: right;    
+    width: 45%;  
+    padding: 20px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    
+}
+
+footer { 
+    padding-top: 30px;
+    padding-right: 10px;
+    height: 40px;
+    text-align: right;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 650px;
+    margin-bottom: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    
+}
